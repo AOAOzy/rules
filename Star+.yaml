@@ -1,6 +1,6 @@
 payload:
+  - DOMAIN,star.api.edge.bamgrid.com
   - DOMAIN,prod-ripcut-delivery.disney-plus.net
   - DOMAIN,star.connections.edge.bamgrid.com
   - DOMAIN,star.content.edge.bamgrid.com
-  - DOMAIN,star.api.edge.bamgrid.com
   - DOMAIN-SUFFIX,starott.com
