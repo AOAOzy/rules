@@ -1,0 +1,36 @@
+# === T-Mobile / TELLO 核心域名 ===
+DOMAIN,epc.tmobile.com,DIRECT
+DOMAIN,fast.t-mobile.com,DIRECT
+DOMAIN,mms.msg.eng.t-mobile.com,DIRECT
+DOMAIN,us.tmobile.rcs.telephony.goog,DIRECT
+DOMAIN,textsecure-service.whispersystems.org,DIRECT
+DOMAIN,my.t-mobile.com,DIRECT
+DOMAIN,crl.t-mobile.com,DIRECT
+DOMAIN,t-mobile.com,DIRECT
+
+# === TELLO 相关域名 ===
+DOMAIN,tello.com,DIRECT
+DOMAIN,my.tello.com,DIRECT
+DOMAIN-SUFFIX,plintron.com,DIRECT
+
+# === 通用后缀（RCS、IMS、VoLTE、短信、推送） ===
+DOMAIN-SUFFIX,t-mobile.com,DIRECT
+DOMAIN-SUFFIX,tmobile.com,DIRECT
+DOMAIN-SUFFIX,3gppnetwork.org,DIRECT
+DOMAIN-SUFFIX,whispersystems.org,DIRECT
+DOMAIN-SUFFIX,googleapis.com,DIRECT
+DOMAIN-SUFFIX,gstatic.com,DIRECT
+DOMAIN-SUFFIX,android.com,DIRECT
+DOMAIN-SUFFIX,google.com,DIRECT
+
+# === T-Mobile 核心 IP-CIDR（移动网络段） ===
+IP-CIDR,208.54.0.0/16,DIRECT
+IP-CIDR,66.94.2.0/24,DIRECT
+IP-CIDR,66.94.6.0/24,DIRECT
+IP-CIDR,66.94.7.0/24,DIRECT
+IP-CIDR,66.94.8.0/24,DIRECT
+IP-CIDR,66.94.9.0/24,DIRECT
+IP-CIDR,66.94.10.0/24,DIRECT
+IP-CIDR,66.94.11.0/24,DIRECT
+IP-CIDR,206.29.177.36/32,DIRECT
+IP-CIDR,216.239.36.131/32,DIRECT
